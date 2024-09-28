@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(226, 241, 229);
+}
+h2{
+    color: darkcyan; font-size: 22px;font-style: italic;
+}
+h3{
+    background-color: rgb(18, 154, 131); font-size: 25px;font-style: inherit; color: rgb(108, 84, 127);
+    border-radius: 30px;
+}
+a{
+    font-size: 24px;color: brown;
+}
+h1{
+    color: rgb(21, 74, 121);font-size: 30px;
+    border-bottom: 1px solid rgb(142, 141, 141);font-style: italic;
+}
+div{
+     display:flex;
+}
+button{
+    background-color: aquamarine;color: rgb(18, 29, 37);width: 150px;cursor: pointer;
+}
